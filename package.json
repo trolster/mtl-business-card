@@ -1,0 +1,22 @@
+{
+  "name": "mtl-business-card",
+  "version": "0.0.1",
+  "description": "Business Card for MTL",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trolster/mtl-business-card.git"
+  },
+  "keywords": [
+    "npm",
+    "npx",
+    "mtl",
+    "mikkel trolle larsen",
+    "business card"
+  ],
+  "author": "Mikkel Trolle Larsen",
+  "bugs": {
+    "url": "https://github.com/trolster/mtl-business-card/issues"
+  },
+  "homepage": "https://github.com/trolster/mtl-business-card#readme"
+}
